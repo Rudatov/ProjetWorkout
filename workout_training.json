@@ -160,34 +160,6 @@
 					"etap_uuid":"4b1f4291-5238-45c9-9375-2919cd4978dc"
 				}
 			]
-		},
-		{
-			"name_workout":"Arm's day the return",
-			"nb_etape":"3",
-			"workout_uuid":"49f91ade-0128-4d11-9e7d-fa6f50fadbe0",
-			"etapes": [
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"marteau 3x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"43f841e2-1932-42d8-b1b1-1a7f4d6b1beb"
-				},
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"épaule 2x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"09772246-e9b0-4854-a349-b59d9e0b604d"
-				},
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"levée bras tendu 2x10 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"c7ea3f19-1d8a-410e-8ce9-129d2651db40"
-				}
-			]
 		}
 	]
 }
