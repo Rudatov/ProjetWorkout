@@ -37,7 +37,7 @@
 		},
 		{
 			"name_workout":"Plank workout",
-			"nb_etape":"8",
+			"nb_etape":"10",
 			"workout_uuid":"d02aebbe-5227-4bf7-9252-f9733a06313a",
 			"etapes": [
 				{
