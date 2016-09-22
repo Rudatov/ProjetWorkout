@@ -82,6 +82,20 @@
 					"pause_etap":"15",
 					"etap_uuid":"5eb6ded7-8acc-4f57-8b98-fbe9f7b4e0bc"
 				},
+                                {
+					"name_etap":"Planche",
+					"desc_etap":"jambe levée droite",
+					"timer_etap":"30",
+					"pause_etap":"15",
+					"etap_uuid":"f14ma0f3-fb5f-42dd-a9ab-638f8a77488d"
+				},
+		 	        {
+					"name_etap":"Planche",
+					"desc_etap":"jambe levée gauche",
+					"timer_etap":"30",
+					"pause_etap":"15",
+					"etap_uuid":"5eb6mad7-8acc-4f57-8b98-fbe9f7b4e0bc"
+				},
 				{
 					"name_etap":"Planche",
 					"desc_etap":"faciale bras tendus",
