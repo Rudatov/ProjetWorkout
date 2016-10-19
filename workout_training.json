@@ -12,7 +12,7 @@
 					"timer_etap":"50",
 					"pause_etap":"25",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_normal_plank",
+                                        "src_img":"xercice_normal_plank",
 					"etap_uuid":"8fa2432d-a2f5-4e84-aa4a-ccaf8eabd326"
 				},
 				{
@@ -21,7 +21,7 @@
 					"timer_etap":"40",
 					"pause_etap":"20",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_elbow_plank",
+                                        "src_img":"xercice_elbow_plank",
 					"etap_uuid":"0bbf802b-8420-4483-bbfc-b86ee543d327"
 				},
 				{
@@ -30,7 +30,7 @@
 					"timer_etap":"30",
 					"pause_etap":"15",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_lateral_plank",
+                                        "src_img":"xercice_lateral_plank",
 					"etap_uuid":"d1165e5a-1344-41a8-8073-452a5b5cd183"
 				},
 				{
@@ -39,7 +39,7 @@
 					"timer_etap":"30",
 					"pause_etap":"15",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_lateral_plank",
+                                        "src_img":"xercice_lateral_plank",
 					"etap_uuid":"2ca3f1c8-3a69-449f-b606-2679fd5e81aa"
 				},
 				{
@@ -48,7 +48,7 @@
 					"timer_etap":"30",
 					"pause_etap":"15",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_lateral_plank",
+                                        "src_img":"xercice_lateral_plank",
 					"etap_uuid":"f14aa0f3-fb5f-42dd-a9ab-638f8a77488d"
 				},
 				{
@@ -57,7 +57,7 @@
 					"timer_etap":"30",
 					"pause_etap":"15",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_lateral_plank",
+                                        "src_img":"xercice_lateral_plank",
 					"etap_uuid":"5eb6ded7-8acc-4f57-8b98-fbe9f7b4e0bc"
 				},
                                 {
@@ -66,7 +66,7 @@
 					"timer_etap":"30",
 					"pause_etap":"15",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_elbow_oneleg",
+                                        "src_img":"xercice_elbow_oneleg",
 					"etap_uuid":"f14ma0f3-fb5f-42dd-a9ab-638f8a77488d"
 				},
 		 	        {
@@ -75,7 +75,7 @@
 					"timer_etap":"30",
 					"pause_etap":"15",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/cervicales_elbow_oneleg",
+                                        "src_img":"xercice_elbow_oneleg",
 					"etap_uuid":"5eb6mad7-8acc-4f57-8b98-fbe9f7b4e0bc"
 				},
 				{
@@ -84,7 +84,7 @@
 					"timer_etap":"40",
 					"pause_etap":"20",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_normal_plank",
+                                        "src_img":"xercice_normal_plank",
 					"etap_uuid":"0e2b7673-ed62-46e4-aca8-97c80501908b"
 				},
 				{
@@ -93,7 +93,7 @@
 					"timer_etap":"50",
 					"pause_etap":"25",
                                         "nb_repet":"0",
-                                        "src_img":"@drawable/xercice_elbow_plank",
+                                        "src_img":"xercice_elbow_plank",
 					"etap_uuid":"7ebd513c-7834-48d4-a1d2-808c0d47fcc4"
 				},
 			]
