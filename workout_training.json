@@ -1,50 +1,18 @@
 {
 	"Workouts": [
 		{
-			"name_workout":"Leg's day",
-			"nb_etape":"4",
-			"workout_uuid":"9900898a-ac1a-4c64-8e92-228223bf1a23",
-			"etapes": [
-				{
-					"name_etap":"Squat",
-					"desc_etap":"2x30",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"a2228ce1-65e3-40e1-8342-5661eebca6e0"
-				},
-				{
-					"name_etap":"Jumping lunges",
-					"desc_etap":"2x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"58a43fb8-aabf-461c-a3ef-0381c664f80c"
-				},
-				{
-					"name_etap":"the Chair",
-					"desc_etap":"(deadly)",
-					"timer_etap":"50",
-					"pause_etap":"30",
-					"etap_uuid":"3816535a-161a-4720-8e1e-8955b8913deb"
-				},
-				{
-					"name_etap":"Calf raises",
-					"desc_etap":"2x40",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"8f83f56b-92e8-4a78-b4ce-ca1ffe44d204"
-				}
-			]
-		},
-		{
 			"name_workout":"Plank workout",
 			"nb_etape":"10",
 			"workout_uuid":"d02aebbe-5227-4bf7-9252-f9733a06313a",
+                        "type_workout":"Intérieur",
 			"etapes": [
 				{
 					"name_etap":"Planche",
 					"desc_etap":"faciale bras tendus",
 					"timer_etap":"50",
 					"pause_etap":"25",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_normal_plank",
 					"etap_uuid":"8fa2432d-a2f5-4e84-aa4a-ccaf8eabd326"
 				},
 				{
@@ -52,6 +20,8 @@
 					"desc_etap":"faciale coudes",
 					"timer_etap":"40",
 					"pause_etap":"20",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_elbow_plank",
 					"etap_uuid":"0bbf802b-8420-4483-bbfc-b86ee543d327"
 				},
 				{
@@ -59,6 +29,8 @@
 					"desc_etap":"latérale bras tendu droit",
 					"timer_etap":"30",
 					"pause_etap":"15",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_lateral_plank",
 					"etap_uuid":"d1165e5a-1344-41a8-8073-452a5b5cd183"
 				},
 				{
@@ -66,6 +38,8 @@
 					"desc_etap":"latérale bras tendu gauche",
 					"timer_etap":"30",
 					"pause_etap":"15",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_lateral_plank",
 					"etap_uuid":"2ca3f1c8-3a69-449f-b606-2679fd5e81aa"
 				},
 				{
@@ -73,6 +47,8 @@
 					"desc_etap":"latérale coude droit",
 					"timer_etap":"30",
 					"pause_etap":"15",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_lateral_plank",
 					"etap_uuid":"f14aa0f3-fb5f-42dd-a9ab-638f8a77488d"
 				},
 				{
@@ -80,6 +56,8 @@
 					"desc_etap":"latérale coude gauche",
 					"timer_etap":"30",
 					"pause_etap":"15",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_lateral_plank",
 					"etap_uuid":"5eb6ded7-8acc-4f57-8b98-fbe9f7b4e0bc"
 				},
                                 {
@@ -87,6 +65,8 @@
 					"desc_etap":"jambe levée droite",
 					"timer_etap":"30",
 					"pause_etap":"15",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_elbow_oneleg",
 					"etap_uuid":"f14ma0f3-fb5f-42dd-a9ab-638f8a77488d"
 				},
 		 	        {
@@ -94,6 +74,8 @@
 					"desc_etap":"jambe levée gauche",
 					"timer_etap":"30",
 					"pause_etap":"15",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/cervicales_elbow_oneleg",
 					"etap_uuid":"5eb6mad7-8acc-4f57-8b98-fbe9f7b4e0bc"
 				},
 				{
@@ -101,6 +83,8 @@
 					"desc_etap":"faciale bras tendus",
 					"timer_etap":"40",
 					"pause_etap":"20",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_normal_plank",
 					"etap_uuid":"0e2b7673-ed62-46e4-aca8-97c80501908b"
 				},
 				{
@@ -108,99 +92,10 @@
 					"desc_etap":"faciale coudes",
 					"timer_etap":"50",
 					"pause_etap":"25",
+                                        "nb_repet":"0",
+                                        "src_img":"@drawable/xercice_elbow_plank",
 					"etap_uuid":"7ebd513c-7834-48d4-a1d2-808c0d47fcc4"
 				},
-			]
-		},
-		{
-			"name_workout":"Pectoraux",
-			"nb_etape":"4",
-			"workout_uuid":"17732b2d-3d09-4c2b-bf7d-eb8e74c18b8a",
-			"etapes": [
-				{
-					"name_etap":"Pompes",
-					"desc_etap":"pieds surrélevés 2x20",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"ab43fe56-a5f4-4d04-9bc8-30b0045acec7"
-				},
-				{
-					"name_etap":"Pompes",
-					"desc_etap":"normales 2x20",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"730b59c0-f613-45d6-86a9-e79fb688ccd3"
-				},
-				{
-					"name_etap":"Pompes",
-					"desc_etap":"écartées 2x20",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"b0d7b7e8-a189-4d2c-bdcd-297350ddd3d1"
-				},
-				{
-					"name_etap":"Pompes",
-					"desc_etap":"serrées 2x20",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"2b439322-5719-45a7-b21e-559fc57468b1"
-				}
-			]
-		},
-		{
-			"name_workout":"Arm's day",
-			"nb_etape":"3",
-			"workout_uuid":"a1d932b3-639f-4054-a9cd-b718e996c730",
-			"etapes": [
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"marteau 3x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"e6593884-9be1-434e-9913-3eb10ff122ff"
-				},
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"épaule 2x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"2c6cad81-af47-4833-8853-e8f2275578f6"
-				},
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"levée bras tendu 2x10 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"4b1f4291-5238-45c9-9375-2919cd4978dc"
-				}
-			]
-		},
-		{
-			"name_workout":"The arm's day return",
-			"nb_etape":"3",
-			"workout_uuid":"49f91ade-0128-4d11-9e7d-fa6f50fadbe0",
-			"etapes": [
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"marteau 3x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"43f841e2-1932-42d8-b1b1-1a7f4d6b1beb"
-				},
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"épaule 2x15 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"09772246-e9b0-4854-a349-b59d9e0b604d"
-				},
-				{
-					"name_etap":"Haltère",
-					"desc_etap":"levée bras tendu 2x10 each side",
-					"timer_etap":"0",
-					"pause_etap":"30",
-					"etap_uuid":"c7ea3f19-1d8a-410e-8ce9-129d2651db40"
-				}
 			]
 		}
 	]
