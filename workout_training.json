@@ -116,8 +116,8 @@
 				{
 					"name_etap":"test_1",
 					"desc_etap":"",
-					"timer_etap":"40",
-					"pause_etap":"20",
+					"timer_etap":"4",
+					"pause_etap":"2",
                                         "nb_repet":"0",
                                         "src_img":"xercice_elbow_plank",
 					"etap_uuid":"0bbf802b-8420-4483-bbfc-b86eg543d327"
@@ -125,26 +125,26 @@
 				{
 					"name_etap":"test_2",
 					"desc_etap":"",
-					"timer_etap":"30",
-					"pause_etap":"15",
-                                        "nb_repet":"0",
+					"timer_etap":"0",
+					"pause_etap":"0",
+                                        "nb_repet":"10",
                                         "src_img":"xercice_lateral_plank",
 					"etap_uuid":"d1165e5a-1344-41a8-8073-452a5b5cd183"
 				},
 				{
 					"name_etap":"test_3",
 					"desc_etap":"",
-					"timer_etap":"30",
-					"pause_etap":"15",
-                                        "nb_repet":"0",
+					"timer_etap":"0",
+					"pause_etap":"0",
+                                        "nb_repet":"5",
                                         "src_img":"xercice_lateral_plank",
 					"etap_uuid":"2ca3f1c8-3a69-449f-b606-2679fd5961aa"
 				},
 				{
 					"name_etap":"test_4",
 					"desc_etap":"",
-					"timer_etap":"30",
-					"pause_etap":"15",
+					"timer_etap":"3",
+					"pause_etap":"1",
                                         "nb_repet":"0",
                                         "src_img":"xercice_lateral_plank",
 					"etap_uuid":"f14aa0f3-fb5f-42dd-a9ab-638fji77488d"
@@ -152,9 +152,9 @@
 				{
 					"name_etap":"test_5",
 					"desc_etap":"",
-					"timer_etap":"3",
-					"pause_etap":"1",
-                                        "nb_repet":"0",
+					"timer_etap":"0",
+					"pause_etap":"0",
+                                        "nb_repet":"10",
                                         "src_img":"xercice_lateral_plank",
 					"etap_uuid":"5eb6ded7-8acc-4f57-8b98-fbe9f7b427bc"
 				}
